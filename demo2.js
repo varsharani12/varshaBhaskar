@@ -1,1 +1,1 @@
-console.log("Namaste Javascript")
+console.log("i love javascript")
